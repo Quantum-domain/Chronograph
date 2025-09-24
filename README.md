@@ -5,7 +5,7 @@
 >
 >结合轻触按键实现秒表功能
 >
-!演示图](https://github.com/user-attachments/assets/ffb122bd-feaf-48bb-8c95-6cd253ff4e74)
-
+![](秒表项目/photo/278.jpg)
+![](秒表项目/photo/_278.jpg)
 ##项目文件说明
 >
